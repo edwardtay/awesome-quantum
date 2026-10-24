@@ -1,0 +1,1228 @@
+{
+  "reviewed_on": "2026-10-24",
+  "method": "Direct curl GET requests through the command tool, following redirects, with 15-second timeouts (20 seconds for the four final additions). HTTP availability is distinct from content review.",
+  "results": [
+    {
+      "url": "https://algassert.com/quirk",
+      "status": 200,
+      "final_url": "https://algassert.com/quirk",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quirk: Quantum Circuit Simulator"
+    },
+    {
+      "url": "https://arxiv.org/abs/1905.09749",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/1905.09749",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "[1905.09749] How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits"
+    },
+    {
+      "url": "https://arxiv.org/abs/quant-ph/9508027",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/quant-ph/9508027",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "[quant-ph/9508027] Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer"
+    },
+    {
+      "url": "https://arxiv.org/abs/quant-ph/9605043",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/quant-ph/9605043",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "[quant-ph/9605043] A fast quantum mechanical algorithm for database search"
+    },
+    {
+      "url": "https://arxiv.org/list/quant-ph/recent",
+      "status": 200,
+      "final_url": "https://arxiv.org/list/quant-ph/recent",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantum Physics"
+    },
+    {
+      "url": "https://awesome.re/badge.svg",
+      "status": 200,
+      "final_url": "https://awesome.re/badge.svg",
+      "exit_code": 0,
+      "outcome": "accessible"
+    },
+    {
+      "url": "https://botan.randombit.net/handbook/api_ref/pubkey.html",
+      "status": 200,
+      "final_url": "https://botan.randombit.net/handbook/api_ref/pubkey.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Public Key Cryptography \u2014 Botan"
+    },
+    {
+      "url": "https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/",
+      "status": 200,
+      "final_url": "https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Lattices in Computer Science (Fall 2009)"
+    },
+    {
+      "url": "https://cs.uwaterloo.ca/~watrous/TQI/",
+      "status": 200,
+      "final_url": "https://cs.uwaterloo.ca/~watrous/TQI/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "The Theory of Quantum Information"
+    },
+    {
+      "url": "https://csrc.nist.gov/projects/crypto-agility",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/projects/crypto-agility",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Crypto Agility | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/projects/cryptographic-module-validation-program",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/projects/cryptographic-module-validation-program",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Cryptographic Module Validation Program | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/projects/post-quantum-cryptography",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/projects/post-quantum-cryptography",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-Quantum Cryptography | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/projects/post-quantum-cryptography/faqs",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/projects/post-quantum-cryptography/faqs",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-Quantum Cryptography | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/projects/post-quantum-cryptography/post-quantum-cryptography-standardization",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-Quantum Cryptography | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/projects/pqc-dig-sig",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/projects/pqc-dig-sig",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-Quantum Cryptography: Additional Digital Signature Schemes | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/pubs/fips/203/final",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/pubs/fips/203/final",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "FIPS 203, Module-Lattice-Based Key-Encapsulation Mechanism Standard | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/pubs/fips/204/final",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/pubs/fips/204/final",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "FIPS 204, Module-Lattice-Based Digital Signature Standard | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/pubs/fips/205/final",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/pubs/fips/205/final",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "FIPS 205, Stateless Hash-Based Digital Signature Standard | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/pubs/sp/800/208/final",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/pubs/sp/800/208/final",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "SP 800-208, Recommendation for Stateful Hash-Based Signature Schemes | CSRC"
+    },
+    {
+      "url": "https://csrc.nist.gov/pubs/sp/800/227/final",
+      "status": 200,
+      "final_url": "https://csrc.nist.gov/pubs/sp/800/227/final",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "SP 800-227, Recommendations for Key-Encapsulation Mechanisms | CSRC"
+    },
+    {
+      "url": "https://cyclonedx.org/capabilities/cbom/",
+      "status": 200,
+      "final_url": "https://cyclonedx.org/capabilities/cbom/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Cryptography Bill of Materials (CBOM) | CycloneDX"
+    },
+    {
+      "url": "https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-mlkem/",
+      "status": 200,
+      "final_url": "https://datatracker.ietf.org/doc/draft-ietf-ipsecme-ikev2-mlkem/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "draft-ietf-ipsecme-ikev2-mlkem-09 - Post-quantum Key Exchange with ML-KEM in the Internet Key Exchange Protocol Version 2 (IKEv2)"
+    },
+    {
+      "url": "https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/",
+      "status": 200,
+      "final_url": "https://datatracker.ietf.org/doc/draft-ietf-tls-mlkem/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "draft-ietf-tls-mlkem-11 - ML-KEM Post-Quantum Key Agreement for TLS 1.3"
+    },
+    {
+      "url": "https://datatracker.ietf.org/wg/lamps/documents/",
+      "status": 200,
+      "final_url": "https://datatracker.ietf.org/wg/lamps/documents/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Limited Additional Mechanisms for PKIX and SMIME (lamps)"
+    },
+    {
+      "url": "https://datatracker.ietf.org/wg/pquip/about/",
+      "status": 200,
+      "final_url": "https://datatracker.ietf.org/wg/pquip/about/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-Quantum Use In Protocols (pquip)"
+    },
+    {
+      "url": "https://developers.cloudflare.com/ssl/post-quantum-cryptography/",
+      "status": 200,
+      "final_url": "https://developers.cloudflare.com/ssl/post-quantum-cryptography/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-quantum cryptography (PQC) \u00b7 Cloudflare SSL/TLS docs"
+    },
+    {
+      "url": "https://docs.aws.amazon.com/braket/latest/developerguide/what-is-braket.html",
+      "status": 200,
+      "final_url": "https://docs.aws.amazon.com/braket/latest/developerguide/what-is-braket.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "What is Amazon Braket? - Amazon Braket"
+    },
+    {
+      "url": "https://docs.dwavequantum.com/en/latest/",
+      "status": 200,
+      "final_url": "https://docs.dwavequantum.com/en/latest/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "D\u2011Wave Documentation \u2014 D-Wave Quantum Computing Products documentation"
+    },
+    {
+      "url": "https://docs.iqm.tech/",
+      "status": 200,
+      "final_url": "https://docs.iqm.tech/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "IQM Docs"
+    },
+    {
+      "url": "https://docs.openssl.org/3.5/man1/openssl-s_client/",
+      "status": 200,
+      "final_url": "https://docs.openssl.org/3.5/man1/openssl-s_client/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "openssl-s_client - OpenSSL Documentation"
+    },
+    {
+      "url": "https://docs.openssl.org/3.5/man7/EVP_KEM-ML-KEM/",
+      "status": 200,
+      "final_url": "https://docs.openssl.org/3.5/man7/EVP_KEM-ML-KEM/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "EVP_KEM-ML-KEM - OpenSSL Documentation"
+    },
+    {
+      "url": "https://docs.openssl.org/3.5/man7/EVP_SIGNATURE-ML-DSA/",
+      "status": 200,
+      "final_url": "https://docs.openssl.org/3.5/man7/EVP_SIGNATURE-ML-DSA/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "EVP_SIGNATURE-ML-DSA - OpenSSL Documentation"
+    },
+    {
+      "url": "https://docs.openssl.org/3.5/man7/EVP_SIGNATURE-SLH-DSA/",
+      "status": 200,
+      "final_url": "https://docs.openssl.org/3.5/man7/EVP_SIGNATURE-SLH-DSA/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "EVP_SIGNATURE-SLH-DSA - OpenSSL Documentation"
+    },
+    {
+      "url": "https://docs.quantinuum.com/",
+      "status": 200,
+      "final_url": "https://docs.quantinuum.com/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantinuum Documentation"
+    },
+    {
+      "url": "https://docs.strongswan.org/docs/latest/config/proposals.html",
+      "status": 200,
+      "final_url": "https://docs.strongswan.org/docs/latest/config/proposals.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Algorithm Proposals (Cipher Suites) :: strongSwan Documentation"
+    },
+    {
+      "url": "https://eprint.iacr.org/",
+      "status": 200,
+      "final_url": "https://eprint.iacr.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Cryptology ePrint Archive"
+    },
+    {
+      "url": "https://eprint.iacr.org/2015/939",
+      "status": 200,
+      "final_url": "https://eprint.iacr.org/2015/939",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "A Decade of Lattice Cryptography"
+    },
+    {
+      "url": "https://errorcorrectionzoo.org/",
+      "status": 200,
+      "final_url": "https://errorcorrectionzoo.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Home | Error Correction Zoo"
+    },
+    {
+      "url": "https://falcon-sign.info/",
+      "status": 200,
+      "final_url": "https://falcon-sign.info/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Falcon"
+    },
+    {
+      "url": "https://github.com/AppliedPQC/awesome-pqc",
+      "status": 200,
+      "final_url": "https://github.com/AppliedPQC/awesome-pqc",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - AppliedPQC/awesome-pqc: A curated, link-verified list of post-quantum cryptography resources for people who have to build and ship it. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/C2SP/CCTV",
+      "status": 200,
+      "final_url": "https://github.com/C2SP/CCTV",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - C2SP/CCTV: Community Cryptography Test Vectors \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/C2SP/wycheproof",
+      "status": 200,
+      "final_url": "https://github.com/C2SP/wycheproof",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - C2SP/wycheproof: Project Wycheproof tests crypto libraries against known attacks. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/EasyCrypt/easycrypt",
+      "status": 200,
+      "final_url": "https://github.com/EasyCrypt/easycrypt",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - EasyCrypt/easycrypt: EasyCrypt: Computer-Aided Cryptographic Proofs \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/NVIDIA/cuda-quantum",
+      "status": 200,
+      "final_url": "https://github.com/NVIDIA/cuda-quantum",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - NVIDIA/cuda-quantum: C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/PQClean",
+      "status": 200,
+      "final_url": "https://github.com/PQClean",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "PQClean \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/PQClean/PQClean",
+      "status": 200,
+      "final_url": "https://github.com/PQClean/PQClean",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - PQClean/PQClean: Clean, portable, tested implementations of post-quantum cryptography \u00b7 GitHub",
+      "archived_repository": true
+    },
+    {
+      "url": "https://github.com/PennyLaneAI/pennylane",
+      "status": 200,
+      "final_url": "https://github.com/PennyLaneAI/pennylane",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - PennyLaneAI/pennylane: PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/Qiskit/qiskit",
+      "status": 200,
+      "final_url": "https://github.com/Qiskit/qiskit",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - Qiskit/qiskit: Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/Qiskit/qiskit-aer",
+      "status": 200,
+      "final_url": "https://github.com/Qiskit/qiskit-aer",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - Qiskit/qiskit-aer: Aer is a high performance simulator for quantum circuits that includes noise models \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/QuEST-Kit/QuEST",
+      "status": 200,
+      "final_url": "https://github.com/QuEST-Kit/QuEST",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - QuEST-Kit/QuEST: A multithreaded, distributed, GPU-accelerated simulator of quantum computers \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/QuTech-Delft/squidasm",
+      "status": 200,
+      "final_url": "https://github.com/QuTech-Delft/squidasm",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - QuTech-Delft/squidasm \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/Quantinuum/tket",
+      "status": 200,
+      "final_url": "https://github.com/Quantinuum/tket",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - Quantinuum/tket: Source code for the TKET quantum compiler, Python bindings and utilities \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/RustCrypto/KEMs",
+      "status": 200,
+      "final_url": "https://github.com/RustCrypto/KEMs",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - RustCrypto/KEMs: Collection of Key Encapsulation Mechanisms written in pure Rust \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/RustCrypto/signatures",
+      "status": 200,
+      "final_url": "https://github.com/RustCrypto/signatures",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - RustCrypto/signatures: Cryptographic signature algorithms: DSA, ECDSA, Ed25519 \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/agl/ctgrind",
+      "status": 200,
+      "final_url": "https://github.com/agl/ctgrind",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - agl/ctgrind: Checking that functions are constant time with Valgrind \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/amazon-braket/amazon-braket-sdk-python",
+      "status": 200,
+      "final_url": "https://github.com/amazon-braket/amazon-braket-sdk-python",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - amazon-braket/amazon-braket-sdk-python: A Python SDK for interacting with quantum devices on Amazon Braket \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/aws/aws-lc",
+      "status": 200,
+      "final_url": "https://github.com/aws/aws-lc",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - aws/aws-lc: AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It \u0456s based on code from the Google BoringSSL project and the OpenSSL project. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/aws/s2n-tls",
+      "status": 200,
+      "final_url": "https://github.com/aws/s2n-tls",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - aws/s2n-tls: An implementation of the TLS/SSL protocols \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/bcgit/bc-csharp",
+      "status": 200,
+      "final_url": "https://github.com/bcgit/bc-csharp",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - bcgit/bc-csharp: BouncyCastle.NET Cryptography Library (Mirror) \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/bcgit/bc-java",
+      "status": 200,
+      "final_url": "https://github.com/bcgit/bc-java",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - bcgit/bc-java: Bouncy Castle Java Distribution (Mirror) \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/cbomkit",
+      "status": 200,
+      "final_url": "https://github.com/cbomkit",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "CBOMkit \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/cbomkit/cbomkit-lib",
+      "status": 200,
+      "final_url": "https://github.com/cbomkit/cbomkit-lib",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - cbomkit/cbomkit-lib \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/cbomkit/sonar-cryptography",
+      "status": 200,
+      "final_url": "https://github.com/cbomkit/sonar-cryptography",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - cbomkit/sonar-cryptography: This repository contains a SonarQube Plugin that detects cryptographic assets in source code and generates CBOM. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/celabshq/libcrux",
+      "status": 200,
+      "final_url": "https://github.com/celabshq/libcrux",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - celabshq/libcrux: The formally verified crypto library for Rust \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/cloudflare/circl",
+      "status": 200,
+      "final_url": "https://github.com/cloudflare/circl",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - cloudflare/circl: CIRCL: Cloudflare Interoperable Reusable Cryptographic Library \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/desireevl/awesome-quantum-computing",
+      "status": 200,
+      "final_url": "https://github.com/desireevl/awesome-quantum-computing",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - desireevl/awesome-quantum-computing: A curated list of awesome quantum computing learning and developing resources. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/dwavesystems/dwave-ocean-sdk",
+      "status": 200,
+      "final_url": "https://github.com/dwavesystems/dwave-ocean-sdk",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - dwavesystems/dwave-ocean-sdk: Installer for D-Wave's Ocean tools \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/jasmin-lang/jasmin",
+      "status": 200,
+      "final_url": "https://github.com/jasmin-lang/jasmin",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - jasmin-lang/jasmin: Language for high-assurance and high-speed cryptography \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/jcmgray/quimb",
+      "status": 200,
+      "final_url": "https://github.com/jcmgray/quimb",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - jcmgray/quimb: A python library for quantum information and many-body calculations including tensor networks. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/jtesta/ssh-audit",
+      "status": 200,
+      "final_url": "https://github.com/jtesta/ssh-audit",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - jtesta/ssh-audit: SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/malb/lattice-estimator",
+      "status": 200,
+      "final_url": "https://github.com/malb/lattice-estimator",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - malb/lattice-estimator: An attempt at a new LWE estimator \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/microsoft/qdk",
+      "status": 200,
+      "final_url": "https://github.com/microsoft/qdk",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - microsoft/qdk: Microsoft Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/mupq/pqm4",
+      "status": 200,
+      "final_url": "https://github.com/mupq/pqm4",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - mupq/pqm4: Post-quantum crypto library for the ARM Cortex-M4 \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/mupq/pqm4/issues/409",
+      "status": 200,
+      "final_url": "https://github.com/mupq/pqm4/issues/409",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Archiving pqm4 \u00b7 Issue #409 \u00b7 mupq/pqm4 \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/nabla-c0d3/sslyze",
+      "status": 200,
+      "final_url": "https://github.com/nabla-c0d3/sslyze",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - nabla-c0d3/sslyze: Fast and powerful SSL/TLS scanning library. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/open-quantum-safe/liboqs",
+      "status": 200,
+      "final_url": "https://github.com/open-quantum-safe/liboqs",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - open-quantum-safe/liboqs: C library for prototyping and experimenting with quantum-resistant cryptography \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/open-quantum-safe/liboqs-python",
+      "status": 200,
+      "final_url": "https://github.com/open-quantum-safe/liboqs-python",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - open-quantum-safe/liboqs-python: Python 3 bindings for liboqs \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/open-quantum-safe/oqs-demos",
+      "status": 200,
+      "final_url": "https://github.com/open-quantum-safe/oqs-demos",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - open-quantum-safe/oqs-demos: PARTIALLY SUPPORTED Instructions for enabling the use of quantum-safe cryptography in assorted software using the OQS suite. CONTRIBUTORS WANTED. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/open-quantum-safe/oqs-provider",
+      "status": 200,
+      "final_url": "https://github.com/open-quantum-safe/oqs-provider",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - open-quantum-safe/oqs-provider: OpenSSL 3+ provider containing post-quantum algorithms \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/openqasm/openqasm",
+      "status": 200,
+      "final_url": "https://github.com/openqasm/openqasm",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - openqasm/openqasm: Quantum assembly language for extended quantum circuits \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/openssl/openssl",
+      "status": 200,
+      "final_url": "https://github.com/openssl/openssl",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - openssl/openssl: General purpose TLS and crypto library \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/oreparaz/dudect",
+      "status": 200,
+      "final_url": "https://github.com/oreparaz/dudect",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - oreparaz/dudect: dude, is my code constant time? \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/oscarhiggott/PyMatching",
+      "status": 200,
+      "final_url": "https://github.com/oscarhiggott/PyMatching",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - oscarhiggott/PyMatching: PyMatching: A Python/C++ library for decoding quantum error correcting codes with minimum-weight perfect matching. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/paulmillr/noble-post-quantum",
+      "status": 200,
+      "final_url": "https://github.com/paulmillr/noble-post-quantum",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - paulmillr/noble-post-quantum: Auditable & minimal JS implementation of public-key post-quantum cryptography \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/pq-code-package",
+      "status": 200,
+      "final_url": "https://github.com/pq-code-package",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "PQ Code Package \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/pq-code-package/mldsa-native",
+      "status": 200,
+      "final_url": "https://github.com/pq-code-package/mldsa-native",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - pq-code-package/mldsa-native: Secure, fast, and portable C90 implementation of ML-DSA / FIPS 204 \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/pq-code-package/mlkem-native",
+      "status": 200,
+      "final_url": "https://github.com/pq-code-package/mlkem-native",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - pq-code-package/mlkem-native: Secure, fast, and portable C90 implementation of ML-KEM / FIPS 203 \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/qiskit-community/qiskit-nature",
+      "status": 200,
+      "final_url": "https://github.com/qiskit-community/qiskit-nature",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - qiskit-community/qiskit-nature: Qiskit Nature is an open-source, quantum computing, framework for solving quantum mechanical natural science problems. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/qosf/awesome-quantum-software",
+      "status": 200,
+      "final_url": "https://github.com/qosf/awesome-quantum-software",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - qosf/awesome-quantum-software: Curated list of open-source quantum software projects. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/quantumlib/Cirq",
+      "status": 200,
+      "final_url": "https://github.com/quantumlib/Cirq",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - quantumlib/Cirq: Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/quantumlib/OpenFermion",
+      "status": 200,
+      "final_url": "https://github.com/quantumlib/OpenFermion",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - quantumlib/OpenFermion: Python package for compiling and analyzing quantum algorithms to simulate electronic structures. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/quantumlib/Qualtran",
+      "status": 200,
+      "final_url": "https://github.com/quantumlib/Qualtran",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - quantumlib/Qualtran: Q\u1d1c\u1d00\u029f\u1d1b\u0280\u1d00\u0274 is a Python library for expressing and analyzing Fault Tolerant Quantum algorithms. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/quantumlib/Stim",
+      "status": 200,
+      "final_url": "https://github.com/quantumlib/Stim",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - quantumlib/Stim: A fast stabilizer circuit library. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/quantumlib/Stim/tree/main/glue/sample",
+      "status": 200,
+      "final_url": "https://github.com/quantumlib/Stim/tree/main/glue/sample",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Stim/glue/sample at main \u00b7 quantumlib/Stim \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/quantumlib/qsim",
+      "status": 200,
+      "final_url": "https://github.com/quantumlib/qsim",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - quantumlib/qsim: Fast C++ and Python library for state-vector simulation of quantum circuits. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/qulacs/qulacs",
+      "status": 200,
+      "final_url": "https://github.com/qulacs/qulacs",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - qulacs/qulacs: Variational Quantum Circuit Simulator for Quantum Computation Research \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/qutip/qutip",
+      "status": 200,
+      "final_url": "https://github.com/qutip/qutip",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - qutip/qutip: QuTiP: Quantum Toolbox in Python \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/randombit/botan",
+      "status": 200,
+      "final_url": "https://github.com/randombit/botan",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - randombit/botan: Cryptography Toolkit \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/rustls/rustls",
+      "status": 200,
+      "final_url": "https://github.com/rustls/rustls",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - rustls/rustls: A modern TLS library in Rust \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/rustpq/pqcrypto",
+      "status": 200,
+      "final_url": "https://github.com/rustpq/pqcrypto",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - rustpq/pqcrypto: Rust Post-Quantum cryptography \u00b7 GitHub",
+      "archived_repository": true
+    },
+    {
+      "url": "https://github.com/rustpq/pqcrypto/issues/97",
+      "status": 200,
+      "final_url": "https://github.com/rustpq/pqcrypto/issues/97",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Ending pqcrypto: PQClean will be archived \u00b7 Issue #97 \u00b7 rustpq/pqcrypto \u00b7 GitHub",
+      "archived_repository": true
+    },
+    {
+      "url": "https://github.com/sequence-toolbox/SeQUeNCe",
+      "status": 200,
+      "final_url": "https://github.com/sequence-toolbox/SeQUeNCe",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - sequence-toolbox/SeQUeNCe: Simulator of QUantum Network Communication (SeQUeNCe) is an open-source tool that allows the modeling of quantum networks including photonic network components, control protocols, and applications. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/testssl/testssl.sh",
+      "status": 200,
+      "final_url": "https://github.com/testssl/testssl.sh",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - testssl/testssl.sh: Testing TLS/SSL encryption anywhere on any port \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/usnistgov/ACVP",
+      "status": 200,
+      "final_url": "https://github.com/usnistgov/ACVP",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - usnistgov/ACVP: Industry Working Group on Automated Cryptographic Algorithm Validation \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/usnistgov/ACVP-Server",
+      "status": 200,
+      "final_url": "https://github.com/usnistgov/ACVP-Server",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - usnistgov/ACVP-Server: A repository tracking releases of NIST's ACVP server. See www.github.com/usnistgov/ACVP for the protocol. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/veorq/awesome-post-quantum",
+      "status": 200,
+      "final_url": "https://github.com/veorq/awesome-post-quantum",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - veorq/awesome-post-quantum: A curated list of resources about post-quantum cryptography. \u00b7 GitHub"
+    },
+    {
+      "url": "https://github.com/wolfSSL/wolfssl",
+      "status": 200,
+      "final_url": "https://github.com/wolfSSL/wolfssl",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "GitHub - wolfSSL/wolfssl: The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes. \u00b7 GitHub"
+    },
+    {
+      "url": "https://groups.google.com/a/list.nist.gov/g/pqc-forum",
+      "status": 200,
+      "final_url": "https://groups.google.com/a/list.nist.gov/g/pqc-forum",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "pqc-forum - Google Groups"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/azure/quantum/",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/azure/quantum/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Microsoft Quantum and Azure Quantum documentation, QDK & Q# programming language - Azure Quantum | Microsoft Learn"
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/azure/quantum/intro-to-resource-estimation",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/azure/quantum/intro-to-resource-estimation",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Introduction to the resource estimator - Azure Quantum | Microsoft Learn"
+    },
+    {
+      "url": "https://link.springer.com/book/10.1007/978-3-540-88702-7",
+      "status": 200,
+      "final_url": "https://link.springer.com/book/10.1007/978-3-540-88702-7",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-Quantum Cryptography | Springer Nature Link",
+      "final_url_note": "Server-added cookie-error query omitted to avoid storing volatile parameters."
+    },
+    {
+      "url": "https://netsquid.org/",
+      "status": 0,
+      "final_url": "https://netsquid.org/",
+      "exit_code": 28,
+      "outcome": "unresolved"
+    },
+    {
+      "url": "https://nodejs.org/docs/latest-v24.x/api/crypto.html",
+      "status": 200,
+      "final_url": "https://nodejs.org/docs/latest-v24.x/api/crypto.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Crypto | Node.js v24.22.1 Documentation"
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf",
+      "status": 200,
+      "final_url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.203.pdf",
+      "exit_code": 0,
+      "outcome": "accessible"
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf",
+      "status": 200,
+      "final_url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf",
+      "exit_code": 0,
+      "outcome": "accessible"
+    },
+    {
+      "url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf",
+      "status": 200,
+      "final_url": "https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.205.pdf",
+      "exit_code": 0,
+      "outcome": "accessible"
+    },
+    {
+      "url": "https://openquantumsafe.org/applications/",
+      "status": 200,
+      "final_url": "https://openquantumsafe.org/applications/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Applications and protocols | Open Quantum Safe"
+    },
+    {
+      "url": "https://openquantumsafe.org/faq.html",
+      "status": 200,
+      "final_url": "https://openquantumsafe.org/faq.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "FAQ | Open Quantum Safe"
+    },
+    {
+      "url": "https://openssl-library.org/post/2025-04-08-openssl-35-final-release/",
+      "status": 200,
+      "final_url": "https://openssl-library.org/post/2025-04-08-openssl-35-final-release/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "OpenSSL 3.5 Final Release - Live | OpenSSL Library"
+    },
+    {
+      "url": "https://pennylane.ai/demonstrations/",
+      "status": 200,
+      "final_url": "https://pennylane.ai/demonstrations/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Demos \u2014 PennyLane"
+    },
+    {
+      "url": "https://pkg.go.dev/crypto/mlkem",
+      "status": 200,
+      "final_url": "https://pkg.go.dev/crypto/mlkem",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "mlkem package - crypto/mlkem - Go Packages"
+    },
+    {
+      "url": "https://pkg.go.dev/crypto/tls",
+      "status": 200,
+      "final_url": "https://pkg.go.dev/crypto/tls",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "tls package - crypto/tls - Go Packages"
+    },
+    {
+      "url": "https://pqc-hqc.org/",
+      "status": 200,
+      "final_url": "https://pqc-hqc.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "HQC"
+    },
+    {
+      "url": "https://pqca.org/",
+      "status": 200,
+      "final_url": "https://pqca.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Post-Quantum Cryptography Alliance"
+    },
+    {
+      "url": "https://qosf.org/",
+      "status": 200,
+      "final_url": "https://qosf.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantum Open Source Foundation"
+    },
+    {
+      "url": "https://quantum-journal.org/",
+      "status": 200,
+      "final_url": "https://quantum-journal.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantum \u2013 the open journal for quantum science"
+    },
+    {
+      "url": "https://quantum.cloud.ibm.com/",
+      "status": 200,
+      "final_url": "https://quantum.cloud.ibm.com/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "IBM Quantum Platform"
+    },
+    {
+      "url": "https://quantum.cloud.ibm.com/learning/en/courses",
+      "status": 200,
+      "final_url": "https://quantum.cloud.ibm.com/learning/en/courses",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "IBM Quantum Learning"
+    },
+    {
+      "url": "https://quantum.country/qcvc",
+      "status": 200,
+      "final_url": "https://quantum.country/qcvc",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantum computing for the very curious"
+    },
+    {
+      "url": "https://quantumalgorithms.org/",
+      "status": 200,
+      "final_url": "https://quantumalgorithms.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantum algorithms for data analysis"
+    },
+    {
+      "url": "https://quantumalgorithmzoo.org/",
+      "status": 200,
+      "final_url": "https://quantumalgorithmzoo.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantum Algorithm Zoo"
+    },
+    {
+      "url": "https://quantumcomputing.stackexchange.com/",
+      "status": 403,
+      "final_url": "https://quantumcomputing.stackexchange.com/",
+      "exit_code": 22,
+      "outcome": "blocked"
+    },
+    {
+      "url": "https://qworld.net/",
+      "status": 200,
+      "final_url": "https://qworld.net/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "home - QWorld"
+    },
+    {
+      "url": "https://signal.org/docs/specifications/doubleratchet/",
+      "status": 200,
+      "final_url": "https://signal.org/docs/specifications/doubleratchet/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Signal >> Specifications >> The Double Ratchet Algorithm"
+    },
+    {
+      "url": "https://signal.org/docs/specifications/pqxdh/",
+      "status": 200,
+      "final_url": "https://signal.org/docs/specifications/pqxdh/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Signal >> Specifications >> The PQXDH Key Agreement Protocol"
+    },
+    {
+      "url": "https://toc.cryptobook.us/",
+      "status": 200,
+      "final_url": "https://toc.cryptobook.us/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "A Graduate Course in Applied Cryptography"
+    },
+    {
+      "url": "https://unitary.foundation/",
+      "status": 200,
+      "final_url": "https://unitary.foundation/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Home - Unitary Foundation"
+    },
+    {
+      "url": "https://www.cisa.gov/resources-tools/resources/quantum-readiness-migration-post-quantum-cryptography",
+      "status": 403,
+      "final_url": "https://www.cisa.gov/resources-tools/resources/quantum-readiness-migration-post-quantum-cryptography",
+      "exit_code": 22,
+      "outcome": "blocked"
+    },
+    {
+      "url": "https://www.etsi.org/technical-groups/cyber/",
+      "status": 403,
+      "final_url": "https://www.etsi.org/technical-groups/cyber/",
+      "exit_code": 22,
+      "outcome": "blocked"
+    },
+    {
+      "url": "https://www.etsi.org/technical-groups/qkd/",
+      "status": 403,
+      "final_url": "https://www.etsi.org/technical-groups/qkd/",
+      "exit_code": 22,
+      "outcome": "blocked"
+    },
+    {
+      "url": "https://www.nccoe.nist.gov/applied-cryptography/migration-to-pqc",
+      "status": 403,
+      "final_url": "https://www.nccoe.nist.gov/applied-cryptography/migration-to-pqc",
+      "exit_code": 22,
+      "outcome": "blocked"
+    },
+    {
+      "url": "https://www.ncsc.gov.uk/guidance/pqc-migration-timelines",
+      "status": 200,
+      "final_url": "https://www.ncsc.gov.uk/guidance/pqc-migration-timelines",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Timelines for migration to post-quantum cryptography | National Cyber Security Centre"
+    },
+    {
+      "url": "https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography",
+      "status": 200,
+      "final_url": "https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "What Is Post-Quantum Cryptography? | NIST"
+    },
+    {
+      "url": "https://www.nsa.gov/Cybersecurity/Post-Quantum-Cybersecurity-Resources/",
+      "status": 403,
+      "final_url": "https://www.nsa.gov/Cybersecurity/Post-Quantum-Cybersecurity-Resources/",
+      "exit_code": 22,
+      "outcome": "blocked"
+    },
+    {
+      "url": "https://www.openssh.org/pq.html",
+      "status": 200,
+      "final_url": "https://www.openssh.org/pq.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "OpenSSH: Post-Quantum Cryptography"
+    },
+    {
+      "url": "https://www.pqcrypto.org/conferences.html",
+      "status": 200,
+      "final_url": "https://www.pqcrypto.org/conferences.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Conferences"
+    },
+    {
+      "url": "https://www.preskill.caltech.edu/ph219/",
+      "status": 200,
+      "final_url": "https://www.preskill.caltech.edu/ph219/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Physics 219 Course Information"
+    },
+    {
+      "url": "https://www.qir-alliance.org/",
+      "status": 200,
+      "final_url": "https://www.qir-alliance.org/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "QIR Alliance"
+    },
+    {
+      "url": "https://www.quantum-network.com/",
+      "status": 200,
+      "final_url": "https://www.quantum-network.com/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Quantum Network Explorer (QNE) - Unlocking the power of quantum networks"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc10024.html",
+      "status": 200,
+      "final_url": "https://www.rfc-editor.org/rfc/rfc10024.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "RFC 10024: Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for TLS 1.3"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9370.html",
+      "status": 200,
+      "final_url": "https://www.rfc-editor.org/rfc/rfc9370.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "RFC 9370: Multiple Key Exchanges in the Internet Key Exchange Protocol Version 2 (IKEv2)"
+    },
+    {
+      "url": "https://www.rfc-editor.org/rfc/rfc9881.html",
+      "status": 200,
+      "final_url": "https://www.rfc-editor.org/rfc/rfc9881.html",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "RFC 9881: Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)"
+    },
+    {
+      "url": "https://www.thomaswong.net/",
+      "status": 200,
+      "final_url": "https://www.thomaswong.net/",
+      "exit_code": 0,
+      "outcome": "accessible",
+      "title": "Thomas Wong"
+    }
+  ],
+  "summary": {
+    "accessible": 146,
+    "blocked": 6,
+    "unresolved": 1
+  }
+}

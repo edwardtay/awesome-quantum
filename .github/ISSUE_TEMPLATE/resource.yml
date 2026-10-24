@@ -1,0 +1,30 @@
+name: Suggest or correct a resource
+description: Propose a useful addition, report a stale entry, or correct a status claim.
+body:
+  - type: input
+    id: resource
+    attributes:
+      label: Resource and canonical URL
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: Reader need or correction
+      description: Explain the concrete gap or incorrect claim and the best category for it.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Primary evidence
+      description: Include documentation, maintenance or release status, limitations, and the date checked.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: State any relationship to the resource, or write none.
+    validations:
+      required: true

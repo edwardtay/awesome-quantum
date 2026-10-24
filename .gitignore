@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.publish-quantum/
+.validation-runtime/
+.link-review/
+.env
+.env.*
+*.key
+*.pem
