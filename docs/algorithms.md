@@ -13,7 +13,7 @@
 | SLH-DSA | Stateless hash-based signatures. | Can the workflow accommodate its signature sizes and signing costs? |
 | LMS / XMSS | Stateful hash-based signatures. | Can the signing system safely maintain state across backups, replicas, crashes, and recovery? |
 
-Sources: [FIPS 203](https://csrc.nist.gov/pubs/fips/203/final), [FIPS 204](https://csrc.nist.gov/pubs/fips/204/final), [FIPS 205](https://csrc.nist.gov/pubs/fips/205/final), and [SP 800-208](https://csrc.nist.gov/pubs/sp/800/208/final). The [standards table](../README.md#standards-and-algorithm-status) separately tracks algorithms still in standardization.
+Sources: [FIPS 203](https://csrc.nist.gov/pubs/fips/203/final), [FIPS 204](https://csrc.nist.gov/pubs/fips/204/final), [FIPS 205](https://csrc.nist.gov/pubs/fips/205/final), and [SP 800-208](https://csrc.nist.gov/pubs/sp/800/208/final). The [standards table](../README.md#-standards-and-algorithm-status) separately tracks algorithms still in standardization.
 
 ## ML-KEM
 

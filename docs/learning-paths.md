@@ -48,7 +48,7 @@ Choose a route by the outcome you need. Work through the steps in order, or skip
 | 2 | [Peikert's lattice survey](https://eprint.iacr.org/2015/939) and [Regev's course](https://cims.nyu.edu/~regev/teaching/lattices_fall_2009/) | Work through the assumptions and reductions underlying lattice constructions. |
 | 3 | [FIPS 203](https://csrc.nist.gov/pubs/fips/203/final) or [FIPS 204](https://csrc.nist.gov/pubs/fips/204/final), with the [algorithm guide](algorithms.md) | Map a standardized interface to a documented implementation, including parameter sets, encodings, input validation, and randomness. |
 | 4 | [NIST ACVP material](https://github.com/usnistgov/ACVP-Server) | Identify the relevant algorithm revision and reproduce selected test vectors. |
-| 5 | [Assurance resources](../README.md#testing-and-implementation-assurance) | Contrast vectors, negative tests, leakage detection, proofs, and module validation. |
+| 5 | [Assurance resources](../README.md#-testing-and-implementation-assurance) | Contrast vectors, negative tests, leakage detection, proofs, and module validation. |
 
 **Outcome:** a reproducible implementation investigation with a clearly stated security model and assurance scope.
 
@@ -57,9 +57,9 @@ Choose a route by the outcome you need. Work through the steps in order, or skip
 | Step | Resource | Exercise |
 |---|---|---|
 | 1 | [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en/courses) | Work through the mathematical and circuit foundations. |
-| 2 | [SDK shortlist](../README.md#quantum-sdks-and-programming) | Pick one SDK and reproduce a small circuit on a local simulator. |
+| 2 | [SDK shortlist](../README.md#-quantum-sdks-and-programming) | Pick one SDK and reproduce a small circuit on a local simulator. |
 | 3 | [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) | Choose a problem and identify the algorithm's access model and assumptions. |
-| 4 | [Simulator shortlist](../README.md#simulators-and-compilers) | Explain how the chosen simulation method limits the circuits you can study. |
-| 5 | [Error correction and estimation](../README.md#error-correction-and-resource-estimation) | Record noise, logical operations, error-correction assumptions, and classical comparison costs. |
+| 4 | [Simulator shortlist](../README.md#-simulators-and-compilers) | Explain how the chosen simulation method limits the circuits you can study. |
+| 5 | [Error correction and estimation](../README.md#-error-correction-and-resource-estimation) | Record noise, logical operations, error-correction assumptions, and classical comparison costs. |
 
 **Outcome:** a reproducible quantum computing experiment whose results are scoped to the tested problem, model, and hardware assumptions.

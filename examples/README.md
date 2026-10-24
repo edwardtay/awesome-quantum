@@ -33,4 +33,4 @@ A KEM alone does not authenticate a peer. For a network application, evaluate a 
 
 Executed on 2026-10-24 with Node.js 24.22.1 and its bundled OpenSSL 3.5.9: all six assertions passed. The runtime archive's SHA-256 matched Node.js's published distribution manifest. The older installed Node.js 20.20.0 exited with the documented requirement message. The temporary validation runtime was kept separate from system Node.js.
 
-The GitHub Actions workflow includes an independent Node.js 24 job to rerun the example. This records a local execution result; hosted CI execution has not yet been observed.
+The GitHub Actions workflow includes an independent Node.js 24 job to rerun the example. Hosted CI also passed on 2026-10-24 after publication.

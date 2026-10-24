@@ -10,45 +10,45 @@
 
 ## Contents
 
-- [How to choose](#how-to-choose)
-- [Learning paths](#learning-paths)
-- [Post-quantum essentials](#post-quantum-essentials)
-- [Standards and algorithm status](#standards-and-algorithm-status)
-- [Migration and crypto agility](#migration-and-crypto-agility)
-- [Discovery and cryptographic inventories](#discovery-and-cryptographic-inventories)
-- [Cryptographic libraries](#cryptographic-libraries)
-- [PQC implementations and research tools](#pqc-implementations-and-research-tools)
-- [Protocols and interoperability](#protocols-and-interoperability)
-- [Testing and implementation assurance](#testing-and-implementation-assurance)
-- [PQC learning and research](#pqc-learning-and-research)
-- [Quantum computing foundations](#quantum-computing-foundations)
-- [Quantum SDKs and programming](#quantum-sdks-and-programming)
-- [Simulators and compilers](#simulators-and-compilers)
-- [Algorithms and applications](#algorithms-and-applications)
-- [Error correction and resource estimation](#error-correction-and-resource-estimation)
-- [Quantum networks and communication](#quantum-networks-and-communication)
-- [Hardware and cloud access](#hardware-and-cloud-access)
-- [Communities and research discovery](#communities-and-research-discovery)
-- [Related awesome lists](#related-awesome-lists)
+- [🧭 How to choose](#-how-to-choose)
+- [🛤️ Learning paths](#-learning-paths)
+- [🛡️ Post-quantum essentials](#-post-quantum-essentials)
+- [📜 Standards and algorithm status](#-standards-and-algorithm-status)
+- [🔄 Migration and crypto agility](#-migration-and-crypto-agility)
+- [🔎 Discovery and cryptographic inventories](#-discovery-and-cryptographic-inventories)
+- [📦 Cryptographic libraries](#-cryptographic-libraries)
+- [🧪 PQC implementations and research tools](#-pqc-implementations-and-research-tools)
+- [🌐 Protocols and interoperability](#-protocols-and-interoperability)
+- [✅ Testing and implementation assurance](#-testing-and-implementation-assurance)
+- [📚 PQC learning and research](#-pqc-learning-and-research)
+- [⚛️ Quantum computing foundations](#-quantum-computing-foundations)
+- [💻 Quantum SDKs and programming](#-quantum-sdks-and-programming)
+- [⚙️ Simulators and compilers](#-simulators-and-compilers)
+- [🧮 Algorithms and applications](#-algorithms-and-applications)
+- [🧩 Error correction and resource estimation](#-error-correction-and-resource-estimation)
+- [🔗 Quantum networks and communication](#-quantum-networks-and-communication)
+- [☁️ Hardware and cloud access](#-hardware-and-cloud-access)
+- [🤝 Communities and research discovery](#-communities-and-research-discovery)
+- [🗂️ Related awesome lists](#-related-awesome-lists)
 
-## How to choose
+## 🧭 How to choose
 
 | I want to… | Start here | What to look for |
 |---|---|---|
-| Understand why PQC matters | [Post-quantum essentials](#post-quantum-essentials) | Distinguish future cryptanalysis from present-day data collection. |
+| Understand why PQC matters | [Post-quantum essentials](#-post-quantum-essentials) | Distinguish future cryptanalysis from present-day data collection. |
 | Compare PQC algorithms and sizes | [Algorithm guide](docs/algorithms.md) | Purpose, parameter sets, security categories, and serialized object sizes. |
 | Plan an organization's migration | [Migration field guide](docs/migration.md) | Inventory, data lifetime, owners, dependencies, and measurable milestones. |
 | Choose a library for an application | [Library chooser](docs/libraries.md) | Documented algorithm coverage, integration boundary, release status, and assurance evidence. |
-| Explore algorithm implementations | [PQC implementations](#pqc-implementations-and-research-tools) | Final-standard compatibility, test coverage, and upstream security policy. |
+| Explore algorithm implementations | [PQC implementations](#-pqc-implementations-and-research-tools) | Final-standard compatibility, test coverage, and upstream security policy. |
 | Evaluate TLS, SSH, VPNs, messaging, or PKI | [Protocol guide](docs/protocols.md) | Key establishment and authentication are separate migration tasks. |
-| Find cryptography in an estate | [Discovery and inventories](#discovery-and-cryptographic-inventories) | Combine source, dependency, runtime, network, and supplier evidence. |
-| Validate an implementation | [Testing and assurance](#testing-and-implementation-assurance) | Vectors, negative tests, interoperability, and side-channel analysis. |
+| Find cryptography in an estate | [Discovery and inventories](#-discovery-and-cryptographic-inventories) | Combine source, dependency, runtime, network, and supplier evidence. |
+| Validate an implementation | [Testing and assurance](#-testing-and-implementation-assurance) | Vectors, negative tests, interoperability, and side-channel analysis. |
 | Record a migration investigation | [Migration templates](templates/README.md) | Copy an inventory, pilot report, and supplier questionnaire into your own project. |
-| Learn quantum computing by doing | [Quantum foundations](#quantum-computing-foundations) | Begin with an interactive circuit tool, then an SDK. |
-| Investigate quantum algorithms | [Algorithms and applications](#algorithms-and-applications) | Compare against strong classical baselines and include encoding costs. |
-| Assess claims about breaking cryptography | [Resource estimation](#error-correction-and-resource-estimation) | Logical qubits, physical qubits, error correction, runtime, and assumptions. |
+| Learn quantum computing by doing | [Quantum foundations](#-quantum-computing-foundations) | Begin with an interactive circuit tool, then an SDK. |
+| Investigate quantum algorithms | [Algorithms and applications](#-algorithms-and-applications) | Compare against strong classical baselines and include encoding costs. |
+| Assess claims about breaking cryptography | [Resource estimation](#-error-correction-and-resource-estimation) | Logical qubits, physical qubits, error correction, runtime, and assumptions. |
 
-## Learning paths
+## 🛤️ Learning paths
 
 These are suggested sequences, not prerequisites for every resource.
 
@@ -64,7 +64,7 @@ Find the named resources in the sections below. Commercial hardware access and s
 
 The [expanded learning paths](docs/learning-paths.md) add concrete exercises and completion outcomes. The [local PQC example](examples/README.md) demonstrates ML-KEM and ML-DSA with six assertions, including altered inputs and an unrelated verification key.
 
-## Post-quantum essentials
+## 🛡️ Post-quantum essentials
 
 | Resource | Why it belongs here |
 |---|---|
@@ -75,7 +75,7 @@ The [expanded learning paths](docs/learning-paths.md) add concrete exercises and
 
 **PQC runs on classical computers.** It concerns cryptographic constructions intended to resist quantum attacks. Quantum key distribution (QKD) uses quantum communication hardware and has different deployment assumptions. A KEM establishes a shared secret; a signature authenticates data. Replacing one does not replace the other. See the [glossary](docs/glossary.md) for these distinctions and their sources.
 
-## Standards and algorithm status
+## 📜 Standards and algorithm status
 
 **Status reviewed: 2026-10-24.** The linked standards bodies are authoritative for subsequent changes. Algorithm standardization does not certify a particular implementation, product, or deployment.
 
@@ -94,7 +94,7 @@ Pre-standard Kyber and Dilithium names appear throughout papers and code. Check 
 
 The [algorithm guide](docs/algorithms.md) compares purpose, parameter sets, public-key sizes, ciphertext sizes, and signature sizes using the final standards' tables.
 
-## Migration and crypto agility
+## 🔄 Migration and crypto agility
 
 | Resource | Scope and practical use |
 |---|---|
@@ -108,7 +108,7 @@ The [algorithm guide](docs/algorithms.md) compares purpose, parameter sets, publ
 
 Use the [migration field guide](docs/migration.md) to turn these resources into inventory fields, a pilot plan, and review questions. Guidance from one jurisdiction is not a universal compliance deadline.
 
-## Discovery and cryptographic inventories
+## 🔎 Discovery and cryptographic inventories
 
 | Resource | Evidence it helps collect | Important limit |
 |---|---|---|
@@ -120,7 +120,7 @@ Use the [migration field guide](docs/migration.md) to turn these resources into 
 | [SSLyze](https://github.com/nabla-c0d3/sslyze) | Automated TLS configuration analysis suitable for repeatable service inventories. | Observed TLS capabilities do not reveal internal key storage or signing dependencies. |
 | [ssh-audit](https://github.com/jtesta/ssh-audit) | SSH algorithm negotiation and configuration assessment. | A server's advertised algorithms do not prove what every client negotiates. |
 
-## Cryptographic libraries
+## 📦 Cryptographic libraries
 
 These are starting points for evaluating an existing stack, not interchangeable recommendations. Language, algorithm availability, protocol support, and assurance vary by release. “Implements FIPS 203” and “FIPS-validated module” are different claims.
 
@@ -142,7 +142,7 @@ Use the [library chooser](docs/libraries.md) for a documentation-backed comparis
 | [Noble post-quantum](https://github.com/paulmillr/noble-post-quantum) | JavaScript / TypeScript. | Readable PQC implementations for the JS ecosystem; review runtime, audit, and side-channel considerations. |
 | [Node.js crypto](https://nodejs.org/docs/latest-v24.x/api/crypto.html) | Node.js built-in APIs. | ML-KEM APIs from 24.7 and ML-DSA from 24.6; review build support and API stability. A [local example](examples/README.md) exercises both. |
 
-## PQC implementations and research tools
+## 🧪 PQC implementations and research tools
 
 | Project | Best use | Boundary |
 |---|---|---|
@@ -157,7 +157,7 @@ Use the [library chooser](docs/libraries.md) for a documentation-backed comparis
 
 For older PQClean-based code and embedded benchmarks, read [Historical resources](docs/historical.md) before choosing dependencies.
 
-## Protocols and interoperability
+## 🌐 Protocols and interoperability
 
 Follow the linked document's current status. An Internet-Draft can change or expire; an RFC's existence does not imply universal implementation support.
 
@@ -181,7 +181,7 @@ The [protocol guide](docs/protocols.md) maps each workflow to the observations n
 | [Cloudflare PQC documentation](https://developers.cloudflare.com/ssl/post-quantum-cryptography/) | Deployment case study. | Practical discussion of transport deployment and where protection applies in a service path. |
 | [Open Quantum Safe integrations](https://openquantumsafe.org/applications/) | Protocol experimentation. | Discover integration projects for TLS, SSH, and certificate experiments with their stated limitations. |
 
-## Testing and implementation assurance
+## ✅ Testing and implementation assurance
 
 | Resource | What it contributes | What it does not establish |
 |---|---|---|
@@ -195,7 +195,7 @@ The [protocol guide](docs/protocols.md) maps each workflow to the observations n
 
 Also test malformed inputs, randomness failures, downgrade behavior, key and certificate encodings, packet-size effects, and cross-implementation compatibility. Record compiler, architecture, library versions, algorithm identifiers, and benchmark conditions.
 
-## PQC learning and research
+## 📚 PQC learning and research
 
 | Resource | Level and focus |
 |---|---|
@@ -208,7 +208,7 @@ Also test malformed inputs, randomness failures, downgrade behavior, key and cer
 | [Shor's factoring and discrete-logarithm paper](https://arxiv.org/abs/quant-ph/9508027) | Primary source for the algorithmic threat to widely used public-key constructions. |
 | [Grover's search paper](https://arxiv.org/abs/quant-ph/9605043) | Primary source for quantum search speedups; useful for understanding why symmetric and public-key impacts differ. |
 
-## Quantum computing foundations
+## ⚛️ Quantum computing foundations
 
 | Resource | Best starting point for |
 |---|---|
@@ -220,7 +220,7 @@ Also test malformed inputs, randomness failures, downgrade behavior, key and cer
 | [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/) | Thomas Wong's accessible textbook and teaching resources. |
 | [PennyLane demos](https://pennylane.ai/demonstrations/) | Runnable explanations of quantum algorithms, machine learning, and chemistry. |
 
-## Quantum SDKs and programming
+## 💻 Quantum SDKs and programming
 
 | Project | Stack | Useful for |
 |---|---|---|
@@ -232,7 +232,7 @@ Also test malformed inputs, randomness failures, downgrade behavior, key and cer
 | [CUDA-Q](https://github.com/NVIDIA/cuda-quantum) | C++ and Python. | Hybrid quantum-classical programs and accelerator-backed simulation. |
 | [D-Wave Ocean](https://github.com/dwavesystems/dwave-ocean-sdk) | Python. | Optimization workflows using annealing and hybrid solvers; a different model from gate-based circuits. |
 
-## Simulators and compilers
+## ⚙️ Simulators and compilers
 
 | Project | Specialty |
 |---|---|
@@ -246,7 +246,7 @@ Also test malformed inputs, randomness failures, downgrade behavior, key and cer
 | [OpenQASM](https://github.com/openqasm/openqasm) | Language specifications and reference material for quantum circuit interchange and control. |
 | [QIR Alliance](https://www.qir-alliance.org/) | LLVM-based intermediate representation ecosystem for quantum toolchains. |
 
-## Algorithms and applications
+## 🧮 Algorithms and applications
 
 | Resource | Why use it |
 |---|---|
@@ -258,7 +258,7 @@ Also test malformed inputs, randomness failures, downgrade behavior, key and cer
 
 For application claims, ask what is counted: state preparation, data loading, repeated measurements, optimization, error correction, and the best relevant classical method. A small demonstration and an end-to-end advantage answer different questions.
 
-## Error correction and resource estimation
+## 🧩 Error correction and resource estimation
 
 | Resource | Question it helps answer |
 |---|---|
@@ -269,7 +269,7 @@ For application claims, ask what is counted: state preparation, data loading, re
 | [Azure Quantum resource estimator](https://learn.microsoft.com/en-us/azure/quantum/intro-to-resource-estimation) | What physical resources follow from a program, hardware assumptions, and error-correction choices? |
 | [Factoring 2048-bit RSA with noisy qubits](https://arxiv.org/abs/1905.09749) | How are factoring resource estimates constructed? A worked research estimate with explicit assumptions, not a forecast. |
 
-## Quantum networks and communication
+## 🔗 Quantum networks and communication
 
 PQC, QKD, quantum networking, and quantum random-number generation solve different problems. Keep their threat models and hardware requirements separate when comparing them.
 
@@ -281,7 +281,7 @@ PQC, QKD, quantum networking, and quantum random-number generation solve differe
 | [NetSquid](https://netsquid.org/) | Quantum network simulation; review access and licensing requirements. |
 | [ETSI quantum key distribution](https://www.etsi.org/technical-groups/qkd/) | QKD interfaces, specifications, and standardization context. |
 
-## Hardware and cloud access
+## ☁️ Hardware and cloud access
 
 Provider entries link to official documentation so readers can evaluate access and supported workflows. Prices, quotas, devices, and availability change; compare them at the source.
 
@@ -294,7 +294,7 @@ Provider entries link to official documentation so readers can evaluate access a
 | [Quantinuum documentation](https://docs.quantinuum.com/) | Hardware and software workflows in Quantinuum's ecosystem. |
 | [IQM documentation](https://docs.iqm.tech/) | Hardware access and software interfaces for IQM systems. |
 
-## Communities and research discovery
+## 🤝 Communities and research discovery
 
 | Resource | Why follow it |
 |---|---|
@@ -307,7 +307,7 @@ Provider entries link to official documentation so readers can evaluate access a
 | [arXiv quantum physics](https://arxiv.org/list/quant-ph/recent) | New quantum research preprints; evaluate claims and publication status independently. |
 | [Quantum journal](https://quantum-journal.org/) | Open-access, peer-reviewed research in quantum science. |
 
-## Related awesome lists
+## 🗂️ Related awesome lists
 
 These lists informed the coverage review. Each has its own useful scope; descriptions here are written independently.
 

@@ -38,7 +38,7 @@ The list provides researched descriptions and links to primary evidence. It does
 
 ## Initial review: 2026-10-24
 
-Local structural checks passed. External URLs were inspected through the browsing tool, with targeted HTTP checks for resources that could not be fetched there. The workspace's Python network checker could not resolve external hosts, so its full network run did not pass; this must not be represented as a clean automated link audit. GitHub-hosted execution of the workflow has not yet been verified.
+Local structural checks passed. External URLs were inspected through the browsing tool, with targeted HTTP checks for resources that could not be fetched there. The workspace's Python network checker could not resolve external hosts, so its full network run did not pass; this must not be represented as a clean automated link audit. Hosted CI was not yet verified at this initial review; the publication record below covers its later execution.
 
 The review corrected a nonexistent `Quantinuum/pytket` repository to `Quantinuum/tket`, updated moved QDK and libcrux repositories, corrected the OQS FAQ path, and replaced ETSI technology URLs that redirected to a generic page. PQClean and Rust pqcrypto were separated into historical resources, and pqm4's announced retirement and OQS demo support limitations were recorded.
 
@@ -74,3 +74,9 @@ A separate direct-curl pass through the command tool checked every external URL 
 The review inspected available page titles, redirects, and GitHub archived-repository banners. The archived banners found belong to the PQClean and Rust pqcrypto historical references. Amazon Braket now links directly to its introductory developer documentation instead of its documentation root. The Springer page returned HTTP 200 with a server-added cookie-error query; volatile query parameters were omitted from the stored final URL and that normalization is noted in the record.
 
 The [algorithm guide](algorithms.md) was checked against FIPS 203 Table 3, FIPS 204 Table 2, and FIPS 205 Table 2. Its object sizes exclude protocol and certificate overhead. HTTP availability, page-title inspection, standards-table review, and the executed Node.js example are separate forms of evidence; none is a general security endorsement.
+
+## Publication validation: 2026-10-24
+
+The public repository's initial hosted workflow passed both local document checks and the Node.js example. The publication set passed a redacted Gitleaks scan. GitHub secret scanning, push protection, and private vulnerability reporting were enabled; no secret-scanning alerts were present when checked. Workflow permissions are read-only and all action references are pinned to verified commit IDs. Dependabot is configured to propose action updates.
+
+The README uses emoji section icons in the style of the owner's existing awesome lists. Local heading references were updated with the section names and validated after the presentation change. The HTTP review remains a dated snapshot, and the access limitations recorded above remain unresolved observations.

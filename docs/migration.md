@@ -48,7 +48,7 @@ Treat a protocol path or signing workflow as the unit of work. Substituting a cr
 | Firmware and embedded devices | Boot-chain roots, available memory, signature size, update channels, recovery, and field replacement. |
 | Archived encrypted data | Key wrapping and custody, backups, retention, and the limits of re-encryption after possible prior collection. |
 
-Follow the protocol's specified hybrid construction where applicable. Concatenating primitives or selecting an experimental algorithm independently is not a substitute for a defined protocol and its security analysis. For concrete sources, see [protocols and interoperability](../README.md#protocols-and-interoperability).
+Follow the protocol's specified hybrid construction where applicable. Concatenating primitives or selecting an experimental algorithm independently is not a substitute for a defined protocol and its security analysis. For concrete sources, see [protocols and interoperability](../README.md#-protocols-and-interoperability).
 
 ## 4. Run a measurable pilot
 

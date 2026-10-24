@@ -11,6 +11,6 @@ These resources remain useful for understanding papers, old benchmarks, and exis
 | [pqm4](https://github.com/mupq/pqm4) | [Maintainers announced plans to archive in or after January 2027](https://github.com/mupq/pqm4/issues/409). | Reproduce Cortex-M4 benchmarks with pinned versions; verify whether implementations match the final standards. |
 | [ctgrind](https://github.com/agl/ctgrind) | Original Valgrind patch and demonstration code rather than a maintained PQC testing suite. | Understand dynamic checks for secret-dependent behavior; establish compatibility with a current analysis toolchain separately. |
 
-For new implementation work, evaluate the [main library and implementation sections](../README.md#cryptographic-libraries), including the PQ Code Package projects and language-specific libraries. There is no universal drop-in replacement: compare API, algorithm coverage, encodings, target architecture, and security requirements.
+For new implementation work, evaluate the [main library and implementation sections](../README.md#-cryptographic-libraries), including the PQ Code Package projects and language-specific libraries. There is no universal drop-in replacement: compare API, algorithm coverage, encodings, target architecture, and security requirements.
 
 Historical publications are different from abandoned dependencies. A foundational paper or book may remain valuable without software maintenance; the main list identifies older learning material where its age affects interpretation.
